@@ -25,4 +25,5 @@ A machine learning web application that predicts whether a person is more of an 
 3. Create a virtual environment
 4. Install dependencies
 5. Start the Flask server - `python app.py`
+6. Run the Laravel web application in laravel project - `php artisan serve` -"https://github.com/ChamodMullegama/personality-prediction"
 
